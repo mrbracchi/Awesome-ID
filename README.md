@@ -14,3 +14,6 @@ List of resources for Instructional Designers
 
 ## Video Editing
 [OpenShot](https://www.openshot.org/)- A cross-platform, easy to use, quick to learn, and surprisingly powerful video editor. 
+
+## Image Creation
+[Figma](https://www.figma.com/)- A vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows.
