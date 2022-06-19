@@ -25,6 +25,8 @@ Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenT
 
 
 ## Image Creation
+[InkScape](https://inkscape.org/)- A Free and open source vector graphics editor for GNU/Linux, Windows and MacOS X. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting. It uses vector graphics to allow for sharp printouts and renderings at unlimited resolution and is not bound to a fixed number of pixels like raster graphics. Inkscape uses the standardized SVG file format as its main format, which is supported by many other applications including web browsers.
+
 [Figma](https://www.figma.com/)- A vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows.
 
 [PenPot](https://penpot.app/)- The first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community.
