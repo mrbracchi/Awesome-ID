@@ -26,3 +26,7 @@ List of resources for Instructional Designers
 [PenPot](https://penpot.app/)- The first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community.
 
 [Lunacy](https://icons8.com/lunacy)- Free graphic design software for Windows, macOS, Linux. Open, edit sketch files with ease. Built-in vector, photos, UI kits, and more. 
+
+
+## YouTube Channels
+[Pixel and Bracket](https://m.youtube.com/c/Pixelandbracket/videos)- I'm Spencer, a designer and content creator from Indianapolis, Indiana. Pixel & Bracket is my creative outlet to help educate and inspire others.
