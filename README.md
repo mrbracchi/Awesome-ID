@@ -35,6 +35,8 @@ Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenT
 
 [Krita](https://krita.org/en/#)- A free and open-source raster graphics editor designed primarily for digital painting and 2D animation. The software runs on Windows, macOS, Linux, Android, and Chrome OS, and features an OpenGL-accelerated canvas, colour management support, an advanced brush engine, non-destructive layers and masks, group-based layer management, vector artwork support, and switchable customisation profiles.
 
+[Karbon](https://calligra.org/karbon/)- A vector drawing application with an user interface that is easy to use, highly customizable and extensible. That makes Karbon a great application for users starting to explore the world of vector graphics as well as for artists wanting to create breathtaking vector art.
+
 ## 3D Creation Software
 [Blender](https://www.blender.org/)- Free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. 
 
