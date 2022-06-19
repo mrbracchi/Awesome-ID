@@ -22,3 +22,5 @@ List of resources for Instructional Designers
 
 ## Image Creation
 [Figma](https://www.figma.com/)- A vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows.
+
+[PenPot](https://penpot.app/)- The first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community.
