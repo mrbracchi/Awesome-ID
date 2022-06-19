@@ -40,5 +40,10 @@ Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenT
 ## 3D Creation Software
 [Blender](https://www.blender.org/)- Free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. 
 
+## Publishing Software
+[Scribus](https://www.scribus.net/)- Underneath a user-friendly interface, Scribus supports professional publishing features, such as CMYK colors, spot colors, ICC color management and versatile PDF creation.
+
+Scribus has many unexpected touches, such as powerful vector drawing tools, support for a huge number of file types via import/export filters, emulation of color blindness or the rendering of markup languages like LaTeX or Lilypond inside Scribus. The Scribus file format is XML-based and open. Unlike proprietary binary file formats, even damaged documents can be recovered with a simple text editor – sometimes a challenging problem with other page layout programs. Scribus has been translated into more than 25 languages, and more are coming in the future.
+
 ## YouTube Channels
 [Pixel and Bracket](https://m.youtube.com/c/Pixelandbracket/videos)- I'm Spencer, a designer and content creator from Indianapolis, Indiana. Pixel & Bracket is my creative outlet to help educate and inspire others.
