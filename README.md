@@ -33,6 +33,8 @@ Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenT
 
 [Krita](https://krita.org/en/#)- A free and open-source raster graphics editor designed primarily for digital painting and 2D animation. The software runs on Windows, macOS, Linux, Android, and Chrome OS, and features an OpenGL-accelerated canvas, colour management support, an advanced brush engine, non-destructive layers and masks, group-based layer management, vector artwork support, and switchable customisation profiles.
 
+## 3D Creation Software
+[Blender](https://www.blender.org/)- Free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. 
 
 ## YouTube Channels
 [Pixel and Bracket](https://m.youtube.com/c/Pixelandbracket/videos)- I'm Spencer, a designer and content creator from Indianapolis, Indiana. Pixel & Bracket is my creative outlet to help educate and inspire others.
