@@ -11,6 +11,8 @@ List of resources for Instructional Designers
 
 [Photopea](https://www.photopea.com/)- an advanced image editor, which can work with both raster and vector graphics. You can use it for simple tasks, such as resizing images, as well as complex tasks, such as designing webpages, creating illustrations, processing photographs and more.
 
+[Raw Therapee](https://www.rawtherapee.com)- RawTherapee is a powerful, cross-platform raw photo processing system, released as Free Software (GPLv3). It is designed for developing raw files from a broad range of digital cameras and targeted at users ranging from enthusiast newcomers who wish to broaden their understanding of how digital imaging works to professional photographers.
+
 
 ## Video Editing
 [OpenShot](https://www.openshot.org/)- A cross-platform, easy to use, quick to learn, and surprisingly powerful video editor. 
