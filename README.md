@@ -17,5 +17,8 @@ List of resources for Instructional Designers
 
 [Kdenlive](https://kdenlive.org/en/)- A powerful free and open source cross-platform video editing program made by the KDE community. Feature rich and production ready.
 
+[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)- The world’s only solution that combines editing, color correction, visual effects, motion graphics and audio post production all in one software tool! Its elegant, modern interface is fast to learn and easy for new users, yet powerful for professionals.
+
+
 ## Image Creation
 [Figma](https://www.figma.com/)- A vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows.
