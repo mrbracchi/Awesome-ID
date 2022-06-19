@@ -10,3 +10,7 @@ List of resources for Instructional Designers
 
 
 [Photopea](https://www.photopea.com/)- an advanced image editor, which can work with both raster and vector graphics. You can use it for simple tasks, such as resizing images, as well as complex tasks, such as designing webpages, creating illustrations, processing photographs and more.
+
+
+## Video Editing
+[OpenShot](https://www.openshot.org/)- A cross-platform, easy to use, quick to learn, and surprisingly powerful video editor. 
