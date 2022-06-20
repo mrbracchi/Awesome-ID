@@ -57,6 +57,10 @@ Scribus has many unexpected touches, such as powerful vector drawing tools, supp
 ### Audio
 [Tune Pocket](https://www.tunepocket.com/)- TunePocket is a royalty free stock music library. Get unlimited download access to thousands of music tracks, loops, and sound effects with an affordable subscription plan. Use our music in personal and commercial videos, films, games, and other projects. New music added daily.
 
+[Ben Sound](https://www.bensound.com/)-Royalty Free Music is copyright safe, cleared and ready to use for YouTube, Facebook, Instagram, TikTok, Twitch, Vimeo, and most Platforms: Your videos are cleared forever, even if you close your membership or account. All Pay-per-Track and All Access subscription plans get you a perpetual license valid forever. You want to cancel your membership? Not a problem! All your projects using our royalty free music are cleared forever!
+
+[Jamendo](https://www.jamendo.com/start)- Jamendo’s mission is to offer the perfect platform for all independent artists wishing to share their creations as easily as possible, reaching new audiences internationally. Our philosophy is that any artist in the world is entitled to share his music and should have a chance to be heard by a greater number of people around the world. We also believe that any artist should benefit from sharing their music. That’s why we help artists make money by licensing their songs for commercial use. Thanks to Jamendo Licensing, we answer the needs of anyone searching for any style of music to be used immediately in a film, a TV program, a commercial, an online video or as background music for commercial space; all at a fair price. With such use of their songs, artists find new sources of revenue while getting wider exposure.
+
 ### Graphics
 
 
