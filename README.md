@@ -75,3 +75,6 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 
 ### Captions
 [Rev](https://www.rev.com/)- Rev’s speech-to-text solutions offer unmatched accuracy. Whether you’re a small business, a Fortune 500 company, or something in between, Rev helps maximize the value of your content, make your brand more accessible, and grow your audience.
+
+### Text-To-Speech
+[Well Said Labs](https://wellsaidlabs.com/)- With WellSaid, you and your team can create voiceover for all your digital content. All it takes is one click. Pick from a range of voice avatars to find the perfect fit for your production. Create voiceover straight from your script, with one or many voices. Share projects and files with team members for feedback and co-production. AI for good. Technology should be empowering, engaging, and fair to all people. Through consent and transparency in data usage, we build secure systems that protect user privacy. We strive to hold ourselves accountable for the algorithms we deploy, and we uphold the principles of the Hippocratic Oath.
