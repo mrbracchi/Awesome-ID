@@ -72,6 +72,8 @@ Scribus has many unexpected touches, such as powerful vector drawing tools, supp
 [ArtGrid](https://artgrid.io/)- Discover story-driven footage from today’s top cinematographers from around the world.
 Filmmaking is our passion. So, we understand what today’s creative filmmakers need to produce amazing films. Not a marketplace full of random shots, but a catalog focused on footage that inspires creativity and brings impact to your film. No filler - Every moment should tell your story.
 
+## Video CDNs
+[Wistia](https://wistia.com/)- Wistia is designed exclusively to support the needs of B2B companies using video for marketing, support, and sales. Wistia is preferable if you’re looking to drive traffic to your website, improve conversions, or increase engagement across the websites you control. Custom video players with custom video or static thumbnails tend to get more clicks, video SEO helps you drive more traffic, and email collectors help you generate leads, which you can send into your CRM of choice. Getting someone’s email establishes a direct line of communication for you to bring them into other campaigns and channels.
 
 ## Accessibility 
 ### Colors
