@@ -51,3 +51,13 @@ Scribus has many unexpected touches, such as powerful vector drawing tools, supp
 
 ## YouTube Channels
 [Pixel and Bracket](https://m.youtube.com/c/Pixelandbracket/videos)- I'm Spencer, a designer and content creator from Indianapolis, Indiana. Pixel & Bracket is my creative outlet to help educate and inspire others.
+
+
+## Stock Resources
+### Audio
+[Tune Pocket](https://www.tunepocket.com/)- TunePocket is a royalty free stock music library. Get unlimited download access to thousands of music tracks, loops, and sound effects with an affordable subscription plan. Use our music in personal and commercial videos, films, games, and other projects. New music added daily.
+
+### Graphics
+
+
+### Video
