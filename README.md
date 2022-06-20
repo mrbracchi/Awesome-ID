@@ -66,4 +66,8 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 
 
 ## Accessibility 
+### Colors
+[Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23000000%0D%0A%23FFFFFF%0D%0A%23E17A17%0D%0A%237D9845%0D%0A%23614B79%0D%0A%2338939B%0D%0A%23FFDD00%0D%0A%2300718D%0D%0A%23DA291C%0D%0A%23DAAA00%0D%0A%2300843D%0D%0A%23DBE7ED%0D%0A%23F8E7DC%0D%0A%23F8EFCE%0D%0A%23DFEAE3%0D%0A%23626262%0D%0A%23767676%0D%0A%23898989%0D%0A%239D9D9D%0D%0A%23C4C4C4%0D%0A%23D8D8D8%0D%0A%23F1F1F1%0D%0A%23043954%0D%0A%23C56B14%0D%0A%23A95C11%0D%0A%2304ABC2%0D%0A%230492A6%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp)- Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast.
+
+### Captions
 [Rev](https://www.rev.com/)- Rev’s speech-to-text solutions offer unmatched accuracy. Whether you’re a small business, a Fortune 500 company, or something in between, Rev helps maximize the value of your content, make your brand more accessible, and grow your audience.
