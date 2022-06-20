@@ -52,7 +52,7 @@ Scribus has many unexpected touches, such as powerful vector drawing tools, supp
 ## YouTube Channels
 [Pixel and Bracket](https://m.youtube.com/c/Pixelandbracket/videos)- I'm Spencer, a designer and content creator from Indianapolis, Indiana. Pixel & Bracket is my creative outlet to help educate and inspire others.
 
-[Blender Fundamentals](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)- This tutorial is part of the Blender Fundamentals series( version 2.8), produced by Dillon Gu. Find more free tutorials on: [blender.org](https://blender.org/tutorials)
+[Blender Fundamentals](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)- This tutorial is part of the Blender Fundamentals series (version 2.8), produced by Dillon Gu. Find more free tutorials on: [blender.org](https://blender.org/tutorials)
 
 
 ## Stock Resources
