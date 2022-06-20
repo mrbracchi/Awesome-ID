@@ -21,6 +21,8 @@ List of resources for Instructional Designers
 
 [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)- The world’s only solution that combines editing, color correction, visual effects, motion graphics and audio post production all in one software tool! Its elegant, modern interface is fast to learn and easy for new users, yet powerful for professionals.
 
+[Veed](https://www.veed.io/)- Online video editing made simple. Cut, trim, crop, add subtitles, progress bars, transcribe and more!
+
 ## Animation
 [Opentoonz](https://opentoonz.github.io/e/)- Software for the production of 2D animation.
 Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenToonz has been customized by Studio Ghibli, and used for the creation of its works for many years. Dwango has launched the OpenToonz project in cooperation with Digital Video and Studio Ghibli.
