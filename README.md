@@ -66,4 +66,4 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 
 
 ## Accessibility 
-[Rev}](https://www.rev.com/)- Rev’s speech-to-text solutions offer unmatched accuracy. Whether you’re a small business, a Fortune 500 company, or something in between, Rev helps maximize the value of your content, make your brand more accessible, and grow your audience.
+[Rev](https://www.rev.com/)- Rev’s speech-to-text solutions offer unmatched accuracy. Whether you’re a small business, a Fortune 500 company, or something in between, Rev helps maximize the value of your content, make your brand more accessible, and grow your audience.
