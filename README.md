@@ -78,3 +78,7 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 
 ### Text-To-Speech
 [Well Said Labs](https://wellsaidlabs.com/)- With WellSaid, you and your team can create voiceover for all your digital content. All it takes is one click. Pick from a range of voice avatars to find the perfect fit for your production. Create voiceover straight from your script, with one or many voices. Share projects and files with team members for feedback and co-production. AI for good. Technology should be empowering, engaging, and fair to all people. Through consent and transparency in data usage, we build secure systems that protect user privacy. We strive to hold ourselves accountable for the algorithms we deploy, and we uphold the principles of the Hippocratic Oath.
+
+[Natural Readers](https://www.naturalreaders.com/commercial.html)- Use text to speech to easily convert and download audio licensed for use on YouTube, eLearning platforms, or any other public use or redistribution purpose.
+
+[Descript](https://www.descript.com/overdub)- Descript is a collaborative audio/video editor that works like a doc. It includes transcription, a screen recorder, publishing, and some mind-bendingly useful AI tools. Descript's Overdub lets you create a text-to-speech model of your voice or select one from our ultra-realistic stock voices.
