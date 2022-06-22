@@ -54,6 +54,10 @@ Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenT
 ## YouTube Channels
 [Pixel and Bracket](https://m.youtube.com/c/Pixelandbracket/videos)- I'm Spencer, a designer and content creator from Indianapolis, Indiana. Pixel & Bracket is my creative outlet to help educate and inspire others.
 
+[TJ Free](https://www.youtube.com/c/TJFREE)- I try to provide accurate information for people looking for free alternatives to proprietary and paid software.
+All of the programs recommend here are free to download and use, and the most are Free Open Source Software (FOSS).
+
+
 [Blender Fundamentals](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)- This tutorial is part of the Blender Fundamentals series (version 2.8), produced by Dillon Gu. Find more free tutorials on: [blender.org](https://blender.org/tutorials)
 
 
