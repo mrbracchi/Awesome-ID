@@ -21,6 +21,8 @@ List of resources for Instructional Designers
 
 [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)- The world’s only solution that combines editing, color correction, visual effects, motion graphics and audio post production all in one software tool! Its elegant, modern interface is fast to learn and easy for new users, yet powerful for professionals.
 
+[Natron](https://natrongithub.github.io/)- Natron is a powerful Digital Compositor that can handle all of your 2D/2.5D needs. Its robust OIIO file formats and OpenFX architecture is what make Natron the most flexible open source compositor for the visual effects community. Its interface and functionally are the same across all platforms such as macOS, Linux and Windows. Natron has a powerful keying, roto/rotopaint, 2D tracking tools that are staple for all current film production project that requires visual effects.
+
 [Veed](https://www.veed.io/)- Online video editing made simple. Cut, trim, crop, add subtitles, progress bars, transcribe and more!
 
 ## Animation
