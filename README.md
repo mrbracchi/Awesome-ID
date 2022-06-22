@@ -27,6 +27,8 @@ List of resources for Instructional Designers
 [Opentoonz](https://opentoonz.github.io/e/)- Software for the production of 2D animation.
 Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenToonz has been customized by Studio Ghibli, and used for the creation of its works for many years. Dwango has launched the OpenToonz project in cooperation with Digital Video and Studio Ghibli.
 
+[Vyond](https://www.vyond.com/)- Vyond’s online video animation software allows your business to easily create professional animated videos for all industries in job roles like marketing, sales, training, and eLearning. Vyond is changing the way the world communicates, one video at a time.
+
 
 ## Image Creation
 [InkScape](https://inkscape.org/)- A Free and open source vector graphics editor for GNU/Linux, Windows and MacOS X. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting. It uses vector graphics to allow for sharp printouts and renderings at unlimited resolution and is not bound to a fixed number of pixels like raster graphics. Inkscape uses the standardized SVG file format as its main format, which is supported by many other applications including web browsers.
