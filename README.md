@@ -65,6 +65,9 @@ All of the programs recommend here are free to download and use, and the most ar
 [Blender Fundamentals](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)- This tutorial is part of the Blender Fundamentals series (version 2.8), produced by Dillon Gu. Find more free tutorials on: [blender.org](https://blender.org/tutorials)
 
 
+[Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)-Creating tools and tutorials for the 3D Blender world
+
+
 ## Stock Resources
 ### Audio
 [Tune Pocket](https://www.tunepocket.com/)- TunePocket is a royalty free stock music library. Get unlimited download access to thousands of music tracks, loops, and sound effects with an affordable subscription plan. Use our music in personal and commercial videos, films, games, and other projects. New music added daily.
