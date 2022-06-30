@@ -68,6 +68,8 @@ All of the programs recommend here are free to download and use, and the most ar
 [Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)-Creating tools and tutorials for the 3D Blender world
 
 
+[Chris P.](https://www.youtube.com/c/chrisprenn/videos)- I create tutorials for Blender, the free, open-source (and just freaking awesome) 3D software!
+
 ## Stock Resources
 ### Audio
 [Tune Pocket](https://www.tunepocket.com/)- TunePocket is a royalty free stock music library. Get unlimited download access to thousands of music tracks, loops, and sound effects with an affordable subscription plan. Use our music in personal and commercial videos, films, games, and other projects. New music added daily.
