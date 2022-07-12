@@ -1,17 +1,17 @@
 # Awesome-ID
 List of resources for Instructional Designers
 # Table of Contents
-[Image Creation](#Image-Creation)
+- [Image Creation](#Image-Creation)
 
-[Image Manipulation](#Image-Manipulation)
+- [Image Manipulation](#Image-Manipulation)
 
-[Publishing Software](#Publishing-Software)
+- [Publishing Software](#Publishing-Software)
 
-[Video Editing](#Video-Editing)
+- [Video Editing](#Video-Editing)
 
-[Animation](#Animation)
+- [Animation](#Animation)
 
-[3D Creation Software](#3D-Creation-Software)
+- [3D Creation Software](#3D-Creation-Software)
 
 **[`^        back to top        ^`](#)**
 
