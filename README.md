@@ -7,6 +7,11 @@ List of resources for Instructional Designers
 
 [Publishing Software](#Publishing-Software)
 
+[Video Editing](#Video-Editing)
+
+[Animation](#Animation)
+
+[3D Creation Software](#3D-Creation-Software)
 
 **[`^        back to top        ^`](#)**
 
@@ -25,6 +30,7 @@ List of resources for Instructional Designers
 
 [Karbon](https://calligra.org/karbon/)- A vector drawing application with an user interface that is easy to use, highly customizable and extensible. That makes Karbon a great application for users starting to explore the world of vector graphics as well as for artists wanting to create breathtaking vector art.
 
+**[`^        back to top        ^`](#)**
 
 ## Image Manipulation
 [Pixlr](https://pixlr.com/)- Edit photos and create stunning designs right in your browser, on your phone or desktop for free. Start from an empty canvas, a photo, a video or select one of our professionally crafted templates.
@@ -38,11 +44,15 @@ List of resources for Instructional Designers
 [Raw Therapee](https://www.rawtherapee.com)- RawTherapee is a powerful, cross-platform raw photo processing system, released as Free Software (GPLv3). It is designed for developing raw files from a broad range of digital cameras and targeted at users ranging from enthusiast newcomers who wish to broaden their understanding of how digital imaging works to professional photographers.
 
 
+**[`^        back to top        ^`](#)**
+
 ## Publishing Software
 [Canva](https://www.canva.com/)- In a visual world, Canva Pro makes it easy for teams to achieve their collective goals and create professional designs together, with premium features like Brand Kit, Background Remover, and more.
 
 [Scribus](https://www.scribus.net/)- Underneath a user-friendly interface, Scribus supports professional publishing features, such as CMYK colors, spot colors, ICC color management and versatile PDF creation. Scribus has many unexpected touches, such as powerful vector drawing tools, support for a huge number of file types via import/export filters, emulation of color blindness or the rendering of markup languages like LaTeX or Lilypond inside Scribus. The Scribus file format is XML-based and open. Unlike proprietary binary file formats, even damaged documents can be recovered with a simple text editor – sometimes a challenging problem with other page layout programs. Scribus has been translated into more than 25 languages, and more are coming in the future.
 
+
+**[`^        back to top        ^`](#)**
 
 ## Video Editing
 [OpenShot](https://www.openshot.org/)- A cross-platform, easy to use, quick to learn, and surprisingly powerful video editor. 
@@ -55,6 +65,9 @@ List of resources for Instructional Designers
 
 [Veed](https://www.veed.io/)- Online video editing made simple. Cut, trim, crop, add subtitles, progress bars, transcribe and more!
 
+**[`^        back to top        ^`](#)**
+
+
 ## Animation
 [Opentoonz](https://opentoonz.github.io/e/)- Software for the production of 2D animation.
 Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenToonz has been customized by Studio Ghibli, and used for the creation of its works for many years. Dwango has launched the OpenToonz project in cooperation with Digital Video and Studio Ghibli.
@@ -62,9 +75,14 @@ Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenT
 [Vyond](https://www.vyond.com/)- Vyond’s online video animation software allows your business to easily create professional animated videos for all industries in job roles like marketing, sales, training, and eLearning. Vyond is changing the way the world communicates, one video at a time.
 
 
+**[`^        back to top        ^`](#)**
+
+
 ## 3D Creation Software
 [Blender](https://www.blender.org/)- Free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. 
 
+
+**[`^        back to top        ^`](#)**
 
 ## YouTube Channels
 [Pixel and Bracket](https://m.youtube.com/c/Pixelandbracket/videos)- I'm Spencer, a designer and content creator from Indianapolis, Indiana. Pixel & Bracket is my creative outlet to help educate and inspire others.
