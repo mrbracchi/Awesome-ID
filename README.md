@@ -12,6 +12,11 @@ List of resources for Instructional Designers
 - [Animation](#Animation)
 
 - [3D Creation Software](#3D-Creation-Software)
+- [YouTube Channels](#YouTube-Channels)
+- [Stock Resources](#Stock-Resources)
+   -[Audio](#Audio)
+   -[Graphics](#Graphics)
+   -[Video](#Video)
 
 **[`^        back to top        ^`](#)**
 
@@ -98,6 +103,10 @@ All of the programs recommend here are free to download and use, and the most ar
 
 
 [Chris P.](https://www.youtube.com/c/chrisprenn/videos)- I create tutorials for Blender, the free, open-source (and just freaking awesome) 3D software!
+
+
+
+**[`^        back to top        ^`](#)**
 
 ## Stock Resources
 ### Audio
