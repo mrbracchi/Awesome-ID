@@ -14,9 +14,9 @@ List of resources for Instructional Designers
 - [3D Creation Software](#3D-Creation-Software)
 - [YouTube Channels](#YouTube-Channels)
 - [Stock Resources](#Stock-Resources)
-   -[Audio](#Audio)
-   -[Graphics](#Graphics)
-   -[Video](#Video)
+   - [Audio](#Audio)
+   - [Graphics](#Graphics)
+   - [Video](#Video)
 
 **[`^        back to top        ^`](#)**
 
