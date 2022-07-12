@@ -19,9 +19,10 @@ List of resources for Instructional Designers
    - [Video](#Video)
 - [Video CDNs](#Video-CDNs)
 - [Accessibility](#Accessibility)
-   - [Color](#Color)
+   - [Colors](#Colors)
    - [Captions](#Captions)
    - [Text-To-Speech](#Text-To-Speech) 
+- [Miscellaneous](#Misc) 
 
 **[`^        back to top        ^`](#)**
 
@@ -121,22 +122,34 @@ All of the programs recommend here are free to download and use, and the most ar
 
 [Jamendo](https://www.jamendo.com/start)- Jamendo’s mission is to offer the perfect platform for all independent artists wishing to share their creations as easily as possible, reaching new audiences internationally. Our philosophy is that any artist in the world is entitled to share his music and should have a chance to be heard by a greater number of people around the world. We also believe that any artist should benefit from sharing their music. That’s why we help artists make money by licensing their songs for commercial use. Thanks to Jamendo Licensing, we answer the needs of anyone searching for any style of music to be used immediately in a film, a TV program, a commercial, an online video or as background music for commercial space; all at a fair price. With such use of their songs, artists find new sources of revenue while getting wider exposure.
 
+**[`^        back to top        ^`](#)**
+
 ### Graphics
 [Pixabay](https://pixabay.com/)- A free stock photography and royalty-free stock media website. It is used for sharing photos, illustrations, vector graphics, film footage, and music, exclusively under the custom Pixabay license, which generally allows the free use of the material with some restrictions.
+
+**[`^        back to top        ^`](#)**
 
 ### Video
 [ArtGrid](https://artgrid.io/)- Discover story-driven footage from today’s top cinematographers from around the world.
 Filmmaking is our passion. So, we understand what today’s creative filmmakers need to produce amazing films. Not a marketplace full of random shots, but a catalog focused on footage that inspires creativity and brings impact to your film. No filler - Every moment should tell your story.
 
+**[`^        back to top        ^`](#)**
+
 ## Video CDNs
 [Wistia](https://wistia.com/)- Wistia is designed exclusively to support the needs of B2B companies using video for marketing, support, and sales. Wistia is preferable if you’re looking to drive traffic to your website, improve conversions, or increase engagement across the websites you control. Custom video players with custom video or static thumbnails tend to get more clicks, video SEO helps you drive more traffic, and email collectors help you generate leads, which you can send into your CRM of choice. Getting someone’s email establishes a direct line of communication for you to bring them into other campaigns and channels.
+
+**[`^        back to top        ^`](#)**
 
 ## Accessibility 
 ### Colors
 [Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23000000%0D%0A%23FFFFFF%0D%0A%23E17A17%0D%0A%237D9845%0D%0A%23614B79%0D%0A%2338939B%0D%0A%23FFDD00%0D%0A%2300718D%0D%0A%23DA291C%0D%0A%23DAAA00%0D%0A%2300843D%0D%0A%23DBE7ED%0D%0A%23F8E7DC%0D%0A%23F8EFCE%0D%0A%23DFEAE3%0D%0A%23626262%0D%0A%23767676%0D%0A%23898989%0D%0A%239D9D9D%0D%0A%23C4C4C4%0D%0A%23D8D8D8%0D%0A%23F1F1F1%0D%0A%23043954%0D%0A%23C56B14%0D%0A%23A95C11%0D%0A%2304ABC2%0D%0A%230492A6%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp)- Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast.
 
+**[`^        back to topic        ^`](#Accessibiliy)**
+
 ### Captions
 [Rev](https://www.rev.com/)- Rev’s speech-to-text solutions offer unmatched accuracy. Whether you’re a small business, a Fortune 500 company, or something in between, Rev helps maximize the value of your content, make your brand more accessible, and grow your audience.
+
+**[`^        back to topic        ^`](#Accessibiliy)**
 
 ### Text-To-Speech
 [Well Said Labs](https://wellsaidlabs.com/)- With WellSaid, you and your team can create voiceover for all your digital content. All it takes is one click. Pick from a range of voice avatars to find the perfect fit for your production. Create voiceover straight from your script, with one or many voices. Share projects and files with team members for feedback and co-production. AI for good. Technology should be empowering, engaging, and fair to all people. Through consent and transparency in data usage, we build secure systems that protect user privacy. We strive to hold ourselves accountable for the algorithms we deploy, and we uphold the principles of the Hippocratic Oath.
@@ -144,6 +157,8 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 [Natural Readers](https://www.naturalreaders.com/commercial.html)- Use text to speech to easily convert and download audio licensed for use on YouTube, eLearning platforms, or any other public use or redistribution purpose.
 
 [Descript](https://www.descript.com/overdub)- Descript is a collaborative audio/video editor that works like a doc. It includes transcription, a screen recorder, publishing, and some mind-bendingly useful AI tools. Descript's Overdub lets you create a text-to-speech model of your voice or select one from our ultra-realistic stock voices.
+
+**[`^        back to top        ^`](#)**
 
 ## Misc
 [Storyboarder](https://wonderunit.com/storyboarder/)- Storyboarder makes it easy to visualize a story as fast you can draw stick figures. Quickly draw to test if a story idea works. Create and show animatics to others. Express your story idea without making a movie.
