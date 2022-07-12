@@ -3,7 +3,7 @@ List of resources for Instructional Designers
 # Table of Contents
 [Image Creation](#Image--Creation)
 
-[Image Manipulation](#Image--Manipulation)
+[Image Manipulation](#Image Manipulation)
 
 [Publishing Software](#Publishing--Software)
 
