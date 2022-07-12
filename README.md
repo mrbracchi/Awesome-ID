@@ -1,30 +1,25 @@
 # Awesome-ID
 List of resources for Instructional Designers
 # Table of Contents
-- [Image Creation](#Image-Creation)
+  - [Image Creation](#image-creation)
+  - [Image Manipulation](#image-manipulation)
+  - [Publishing Software](#publishing-software)
+  - [Video Editing](#video-editing)
+  - [Animation](#animation)
+  - [3D Creation Software](#3d-creation-software)
+  - [YouTube Channels](#youtube-channels)
+  - [Stock Resources](#stock-resources)
+    - [Audio](#audio)
+    - [Graphics](#graphics)
+    - [Video](#video)
+  - [Video CDNs](#video-cdns)
+  - [Accessibility](#accessibility)
+    - [Colors](#colors)
+    - [Captions](#captions)
+    - [Text-To-Speech](#text-to-speech)
+  - [Misc](#misc)
 
-- [Image Manipulation](#Image-Manipulation)
-
-- [Publishing Software](#Publishing-Software)
-
-- [Video Editing](#Video-Editing)
-
-- [Animation](#Animation)
-
-- [3D Creation Software](#3D-Creation-Software)
-- [YouTube Channels](#YouTube-Channels)
-- [Stock Resources](#Stock-Resources)
-   - [Audio](#Audio)
-   - [Graphics](#Graphics)
-   - [Video](#Video)
-- [Video CDNs](#Video-CDNs)
-- [Accessibility](#Accessibility)
-   - [Colors](#Colors)
-   - [Captions](#Captions)
-   - [Text-To-Speech](#Text-To-Speech) 
-- [Miscellaneous](#Misc) 
-
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
 
 
 
@@ -41,7 +36,7 @@ List of resources for Instructional Designers
 
 [Karbon](https://calligra.org/karbon/)- A vector drawing application with an user interface that is easy to use, highly customizable and extensible. That makes Karbon a great application for users starting to explore the world of vector graphics as well as for artists wanting to create breathtaking vector art.
 
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
 
 ## Image Manipulation
 [Pixlr](https://pixlr.com/)- Edit photos and create stunning designs right in your browser, on your phone or desktop for free. Start from an empty canvas, a photo, a video or select one of our professionally crafted templates.
@@ -55,7 +50,7 @@ List of resources for Instructional Designers
 [Raw Therapee](https://www.rawtherapee.com)- RawTherapee is a powerful, cross-platform raw photo processing system, released as Free Software (GPLv3). It is designed for developing raw files from a broad range of digital cameras and targeted at users ranging from enthusiast newcomers who wish to broaden their understanding of how digital imaging works to professional photographers.
 
 
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
 
 ## Publishing Software
 [Canva](https://www.canva.com/)- In a visual world, Canva Pro makes it easy for teams to achieve their collective goals and create professional designs together, with premium features like Brand Kit, Background Remover, and more.
@@ -63,7 +58,7 @@ List of resources for Instructional Designers
 [Scribus](https://www.scribus.net/)- Underneath a user-friendly interface, Scribus supports professional publishing features, such as CMYK colors, spot colors, ICC color management and versatile PDF creation. Scribus has many unexpected touches, such as powerful vector drawing tools, support for a huge number of file types via import/export filters, emulation of color blindness or the rendering of markup languages like LaTeX or Lilypond inside Scribus. The Scribus file format is XML-based and open. Unlike proprietary binary file formats, even damaged documents can be recovered with a simple text editor – sometimes a challenging problem with other page layout programs. Scribus has been translated into more than 25 languages, and more are coming in the future.
 
 
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
 
 ## Video Editing
 [OpenShot](https://www.openshot.org/)- A cross-platform, easy to use, quick to learn, and surprisingly powerful video editor. 
@@ -76,7 +71,7 @@ List of resources for Instructional Designers
 
 [Veed](https://www.veed.io/)- Online video editing made simple. Cut, trim, crop, add subtitles, progress bars, transcribe and more!
 
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
 
 
 ## Animation
@@ -86,14 +81,14 @@ Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenT
 [Vyond](https://www.vyond.com/)- Vyond’s online video animation software allows your business to easily create professional animated videos for all industries in job roles like marketing, sales, training, and eLearning. Vyond is changing the way the world communicates, one video at a time.
 
 
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
 
 
 ## 3D Creation Software
 [Blender](https://www.blender.org/)- Free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. 
 
 
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
 
 ## YouTube Channels
 [Pixel and Bracket](https://m.youtube.com/c/Pixelandbracket/videos)- I'm Spencer, a designer and content creator from Indianapolis, Indiana. Pixel & Bracket is my creative outlet to help educate and inspire others.
@@ -112,7 +107,7 @@ All of the programs recommend here are free to download and use, and the most ar
 
 
 
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
 
 ## Stock Resources
 ### Audio
@@ -133,12 +128,12 @@ All of the programs recommend here are free to download and use, and the most ar
 [ArtGrid](https://artgrid.io/)- Discover story-driven footage from today’s top cinematographers from around the world.
 Filmmaking is our passion. So, we understand what today’s creative filmmakers need to produce amazing films. Not a marketplace full of random shots, but a catalog focused on footage that inspires creativity and brings impact to your film. No filler - Every moment should tell your story.
 
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
 
 ## Video CDNs
 [Wistia](https://wistia.com/)- Wistia is designed exclusively to support the needs of B2B companies using video for marketing, support, and sales. Wistia is preferable if you’re looking to drive traffic to your website, improve conversions, or increase engagement across the websites you control. Custom video players with custom video or static thumbnails tend to get more clicks, video SEO helps you drive more traffic, and email collectors help you generate leads, which you can send into your CRM of choice. Getting someone’s email establishes a direct line of communication for you to bring them into other campaigns and channels.
 
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
 
 ## Accessibility 
 ### Colors
@@ -158,7 +153,7 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 
 [Descript](https://www.descript.com/overdub)- Descript is a collaborative audio/video editor that works like a doc. It includes transcription, a screen recorder, publishing, and some mind-bendingly useful AI tools. Descript's Overdub lets you create a text-to-speech model of your voice or select one from our ultra-realistic stock voices.
 
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
 
 ## Misc
 [Storyboarder](https://wonderunit.com/storyboarder/)- Storyboarder makes it easy to visualize a story as fast you can draw stick figures. Quickly draw to test if a story idea works. Create and show animatics to others. Express your story idea without making a movie.
@@ -166,4 +161,4 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 
 [PHP-Dyamic-Qr-code](https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code)- PHP Dynamic Qr code is a script that allows the generation and saving of dynamic and static QR codes. It has clean, responsive and user-friendly design. It is Based on AdminLte the "Best open source admin dashboard & control panel theme. Built on top of Bootstrap" and Core PHP Admin Panel, a simple Admin Pannel written in core PHP that contains an implementation of general features you might need in your website admin panel like: record management (CRUD), secure authentication, pagination, filters.
 
-**[`^        back to top        ^`](#)**
+**[`^        Back to Table of Contents        ^`](#)**
