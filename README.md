@@ -6,6 +6,7 @@ List of resources for Instructional Designers
 [Image Manipulation](#Image Manipulation)
 
 [Publishing Software](#Publishing--Software)
+**[`^        back to top        ^`](#)**
 
 
 
