@@ -122,12 +122,12 @@ All of the programs recommend here are free to download and use, and the most ar
 
 [Jamendo](https://www.jamendo.com/start)- Jamendo’s mission is to offer the perfect platform for all independent artists wishing to share their creations as easily as possible, reaching new audiences internationally. Our philosophy is that any artist in the world is entitled to share his music and should have a chance to be heard by a greater number of people around the world. We also believe that any artist should benefit from sharing their music. That’s why we help artists make money by licensing their songs for commercial use. Thanks to Jamendo Licensing, we answer the needs of anyone searching for any style of music to be used immediately in a film, a TV program, a commercial, an online video or as background music for commercial space; all at a fair price. With such use of their songs, artists find new sources of revenue while getting wider exposure.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to topic        ^`](#Stock-Resources)**
 
 ### Graphics
 [Pixabay](https://pixabay.com/)- A free stock photography and royalty-free stock media website. It is used for sharing photos, illustrations, vector graphics, film footage, and music, exclusively under the custom Pixabay license, which generally allows the free use of the material with some restrictions.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to topic        ^`](#Stock-Resources)**
 
 ### Video
 [ArtGrid](https://artgrid.io/)- Discover story-driven footage from today’s top cinematographers from around the world.
@@ -165,3 +165,5 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 
 
 [PHP-Dyamic-Qr-code](https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code)- PHP Dynamic Qr code is a script that allows the generation and saving of dynamic and static QR codes. It has clean, responsive and user-friendly design. It is Based on AdminLte the "Best open source admin dashboard & control panel theme. Built on top of Bootstrap" and Core PHP Admin Panel, a simple Admin Pannel written in core PHP that contains an implementation of general features you might need in your website admin panel like: record management (CRUD), secure authentication, pagination, filters.
+
+**[`^        back to top        ^`](#)**
