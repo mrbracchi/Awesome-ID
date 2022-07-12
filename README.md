@@ -17,6 +17,11 @@ List of resources for Instructional Designers
    - [Audio](#Audio)
    - [Graphics](#Graphics)
    - [Video](#Video)
+- [Video CDNs](#Video-CDNs)
+- [Accessibility](#Accessibility)
+   - [Color](#Color)
+   - [Captions](#Captions)
+   - [Text-To-Speech](#Text-To-Speech) 
 
 **[`^        back to top        ^`](#)**
 
