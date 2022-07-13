@@ -18,6 +18,11 @@ List of resources for Instructional Designers
     - [Captions](#captions)
     - [Text-To-Speech](#text-to-speech)
   - [Misc](#misc)
+    - [#software]
+    - [#Books]
+      - [#ID/LD-and-eLearning]
+      - [#Design]
+      - [#Ethical-Technology-(Or-lack-there-of)]
 
 **[`^        Back to Table of Contents        ^`](#)**
 
@@ -156,9 +161,44 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 **[`^        Back to Table of Contents        ^`](#)**
 
 ## Misc
+### Software
 [Storyboarder](https://wonderunit.com/storyboarder/)- Storyboarder makes it easy to visualize a story as fast you can draw stick figures. Quickly draw to test if a story idea works. Create and show animatics to others. Express your story idea without making a movie.
 
 
 [PHP-Dyamic-Qr-code](https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code)- PHP Dynamic Qr code is a script that allows the generation and saving of dynamic and static QR codes. It has clean, responsive and user-friendly design. It is Based on AdminLte the "Best open source admin dashboard & control panel theme. Built on top of Bootstrap" and Core PHP Admin Panel, a simple Admin Pannel written in core PHP that contains an implementation of general features you might need in your website admin panel like: record management (CRUD), secure authentication, pagination, filters.
 
+### Books
+#### ID/LD and eLearning
+[Map It: The Action Mapping Book](https://blog.cathy-moore.com/book-map-it/)- No more information dumps! Map It helps you turn training requests into projects that make a real difference. Using humor and lots of examples, Map It walks you through action mapping, a visual approach to needs analysis and training design. Organizations around the world use action mapping to improve performance with targeted, efficient training.
+
+[Design for How People Learn (Voices That Matter)](https://usablelearning.com/the-book/)- In Design For How People Learn, Second Edition, you'll discover how to use the key principles behind learning, memory, and attention to create materials that enable your audience to both gain and retain the knowledge and skills you're sharing. Updated to cover new insights and research into how we learn and remember, this new edition includes new techniques for using social media for learning as well as two brand new chapters on designing for habit and best practices for evaluating learning, such as how and when to use tests. Using accessible visual metaphors and concrete methods and examples, Design For How People Learn, Second Edition will teach you how to leverage the fundamental concepts of instructional design both to improve your own learning and to engage your audience.
+
+[Telling Ain't Training](https://www.hsa-lps.com/To%20order.htm#TAT)- Provides practical information for trainers and performance improvement professionals. This book tackles the three universal and persistent questions of the profession: How do learners learn? Why do learners learn? And how do you make sure that learning sticks?
+
+[The eLearning Designer's Handbook: A Practical Guide to the eLearning Development Process for New eLearning Designers](https://elearningacademy.io/books/the-elearning-designers-handbook/)- The eLearning development process doesn’t have to be as complicated as it might seem. If you’re new to eLearning, Tim will walk you through the complete eLearning design and development process, providing you practical tips and advice, based on his own experience working as an eLearning designer for over a decade.
+**[`^        back to topic        ^`](#Books)**
+**[`^        Back to Table of Contents        ^`](#)**
+
+#### Design
+[Evil by Design](https://evilbydesign.info/)- If you know about the techniques you can see when someone tries them on you. If you are a designer you can use the design patterns either for good or evil. It’s up to you. The book? You should buy it. No, really. It’s an entertaining read, regardless of whether you ever plan on designing sites or products to use the techniques. It explains the psychological principles behind 57 evil design patterns, using examples from all over the Web. Full color on every page. Less than 50 cents per pattern!
+
+**[`^        back to topic        ^`](#Books)**
+**[`^        Back to Table of Contents        ^`](#)**
+
+#### Ethical Technology (Or lack there of)
+[The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/)- The challenges to humanity posed by the digital future, the first detailed examination of the unprecedented form of power called “surveillance capitalism,” and the quest by powerful corporations to predict and control our behavior.
+
+In this masterwork of original thinking and research, Shoshana Zuboff provides startling insights into the phenomenon that she has named surveillance capitalism. The stakes could not be higher: a global architecture of behavior modification threatens human nature in the twenty-first century just as industrial capitalism disfigured the natural world in the twentieth.
+
+Zuboff vividly brings to life the consequences as surveillance capitalism advances from Silicon Valley into every economic sector. Vast wealth and power are accumulated in ominous new “behavioral futures markets,” where predictions about our behavior are bought and sold, and the production of goods and services is subordinated to a new “means of behavioral modification.”
+
+The threat has shifted from a totalitarian Big Brother state to a ubiquitous digital architecture: a “Big Other” operating in the interests of surveillance capital. Here is the crucible of an unprecedented form of power marked by extreme concentrations of knowledge and free from democratic oversight. Zuboff’s comprehensive and moving analysis lays bare the threats to twenty-first century society: a controlled “hive” of total connection that seduces with promises of total certainty for maximum profit — at the expense of democracy, freedom, and our human future.
+
+With little resistance from law or society, surveillance capitalism is on the verge of dominating the social order and shaping the digital future — if we let it.
+
+[Weapons of Math Destruction](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/)- We live in the age of the algorithm. Increasingly, the decisions that affect our lives—where we go to school, whether we can get a job or a loan, how much we pay for health insurance—are being made not by humans, but by machines. In theory, this should lead to greater fairness: Everyone is judged according to the same rules.
+ 
+But as mathematician and data scientist Cathy O’Neil reveals, the mathematical models being used today are unregulated and uncontestable, even when they’re wrong. Most troubling, they reinforce discrimination—propping up the lucky, punishing the downtrodden, and undermining our democracy in the process. Welcome to the dark side of Big Data.
+
+**[`^        back to topic        ^`](#Books)**
 **[`^        Back to Table of Contents        ^`](#)**
