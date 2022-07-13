@@ -18,11 +18,11 @@ List of resources for Instructional Designers
     - [Captions](#captions)
     - [Text-To-Speech](#text-to-speech)
   - [Misc](#misc)
-    - [#software]
-    - [#Books]
-      - [#ID/LD-and-eLearning]
-      - [#Design]
-      - [#Ethical-Technology-(Or-lack-there-of)]
+    - [Software](#software)
+    - [Books](#books)
+      - [ID/LD and eLearning](#ID/LD-and-eLearning)
+      - [Design](#Design)
+      - [`Ethical Technology-(Or lack there of)`](#Ethical-Technology-(Or-lack-there-of))
 
 **[`^        Back to Table of Contents        ^`](#)**
 
@@ -168,7 +168,7 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 [PHP-Dyamic-Qr-code](https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code)- PHP Dynamic Qr code is a script that allows the generation and saving of dynamic and static QR codes. It has clean, responsive and user-friendly design. It is Based on AdminLte the "Best open source admin dashboard & control panel theme. Built on top of Bootstrap" and Core PHP Admin Panel, a simple Admin Pannel written in core PHP that contains an implementation of general features you might need in your website admin panel like: record management (CRUD), secure authentication, pagination, filters.
 
 ### Books
-#### ID/LD and eLearning
+### ID/LD and eLearning
 [Map It: The Action Mapping Book](https://blog.cathy-moore.com/book-map-it/)- No more information dumps! Map It helps you turn training requests into projects that make a real difference. Using humor and lots of examples, Map It walks you through action mapping, a visual approach to needs analysis and training design. Organizations around the world use action mapping to improve performance with targeted, efficient training.
 
 [Design for How People Learn (Voices That Matter)](https://usablelearning.com/the-book/)- In Design For How People Learn, Second Edition, you'll discover how to use the key principles behind learning, memory, and attention to create materials that enable your audience to both gain and retain the knowledge and skills you're sharing. Updated to cover new insights and research into how we learn and remember, this new edition includes new techniques for using social media for learning as well as two brand new chapters on designing for habit and best practices for evaluating learning, such as how and when to use tests. Using accessible visual metaphors and concrete methods and examples, Design For How People Learn, Second Edition will teach you how to leverage the fundamental concepts of instructional design both to improve your own learning and to engage your audience.
