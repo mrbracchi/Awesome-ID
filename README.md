@@ -22,7 +22,7 @@ List of resources for Instructional Designers
     - [Books](#books)
       - [ID/LD and eLearning](#ID/LD-and-eLearning)
       - [Design](#Design)
-      - [`Ethical Technology-(Or lack there of)`](#Ethical-Technology-(Or-lack-there-of))
+      - [Ethical Technology (Or lack there of)](#Ethical-Technology-(Or-lack-there-of))
 
 **[`^        Back to Table of Contents        ^`](#)**
 
