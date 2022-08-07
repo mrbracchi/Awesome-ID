@@ -158,6 +158,8 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 
 [Descript](https://www.descript.com/overdub)- Descript is a collaborative audio/video editor that works like a doc. It includes transcription, a screen recorder, publishing, and some mind-bendingly useful AI tools. Descript's Overdub lets you create a text-to-speech model of your voice or select one from our ultra-realistic stock voices.
 
+[Transcribe tool in Microsoft Word Online](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)- The transcribe tool in Microsoft Word online allows you to upload an audio of video file and generate a written transcript. This can include multiple labelled speakers and you can choose to include these labels and the timecodes in the text or have the text alone. This is very helpful for transcripts of audio and video for accessibility reasons. Also helpful for transcribing interview recordings for further in-depth text analysis.
+
 **[`^        Back to Table of Contents        ^`](#)**
 
 ## Misc
