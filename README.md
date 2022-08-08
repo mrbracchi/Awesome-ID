@@ -151,8 +151,14 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 
 **[`^        back to topic        ^`](#Accessibiliy)**
 
-### Captions
+### Captioning and Subtitles
+[Understand Subtitles](https://www.bbc.com/academy-guides/how-do-i-create-subtitles)- Guide from the BBC explains the different types of subtitles, including closed captions and open captions. It provides visual examples and explains the different file types.
+
+
 [Rev](https://www.rev.com/)- Rev’s speech-to-text solutions offer unmatched accuracy. Whether you’re a small business, a Fortune 500 company, or something in between, Rev helps maximize the value of your content, make your brand more accessible, and grow your audience.
+
+
+[SRT to VTT converter](https://github.com/silviapfeiffer/silviapfeiffer.github.io)- Convert SRT (the subtitle file type that Camtasia and some other tools put out) to VTT, the format required by Microsoft Stream, SharePoint and others. Create your own HTML file including the source code to run this locally on your computer.
 
 **[`^        back to topic        ^`](#Accessibiliy)**
 
