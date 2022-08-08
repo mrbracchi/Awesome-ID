@@ -175,7 +175,7 @@ All of the programs recommend here are free to download and use, and the most ar
 
 
 ### ID Communities
-[Devlin Peck's Community](community.devlinpeck.com)- An asynchronous forum with lots of members and many different channels of discussion. Devlin is well known in the ID community and runs his own bootcamp. This community is also a place for bootcamp members to connect and get feedback on their projects.
+[Devlin Peck's Community](https://community.devlinpeck.com)- An asynchronous forum with lots of members and many different channels of discussion. Devlin is well known in the ID community and runs his own bootcamp. This community is also a place for bootcamp members to connect and get feedback on their projects.
 
 [Reddit Instructional Design](https://www.reddit.com/r/instructionaldesign)- An asynchronous Reddit community that has been around since 2012 and has about 20.5K members. They also have a [discord channel](https://discord.gg/xfzh84V).
 
