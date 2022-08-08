@@ -19,6 +19,7 @@ List of resources for Instructional Designers
     - [Text-To-Speech](#text-to-speech)
   - [Misc](#misc)
     - [Software](#software)
+      - [Flash Cards](#flashcards)
     - [Books](#books)
       - [ID/LD and eLearning](#ID/LD-and-eLearning)
       - [Design](#Design)
@@ -179,6 +180,12 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 
 
 [PHP-Dyamic-Qr-code](https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code)- PHP Dynamic Qr code is a script that allows the generation and saving of dynamic and static QR codes. It has clean, responsive and user-friendly design. It is Based on AdminLte the "Best open source admin dashboard & control panel theme. Built on top of Bootstrap" and Core PHP Admin Panel, a simple Admin Pannel written in core PHP that contains an implementation of general features you might need in your website admin panel like: record management (CRUD), secure authentication, pagination, filters.
+
+### Flashcards
+- [H5P](https://h5p.org/flashcards)- Free interactive HTML5 flashcards. This content type allows authors to create a single flash card or a set of flashcards that have both questions and answers. Learners are required to fill in the text field and then check the correctness of their solution. 
+
+- [Quizlet](https://quizlet.com/)- Ability to create and share flashcards. Geared towards a K-12 audience but can be used by anyone for a variety of use cases. 
+
 
 ### Books
 ### ID/LD and eLearning
