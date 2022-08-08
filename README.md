@@ -7,7 +7,6 @@ List of resources for Instructional Designers
   - [Video Editing](#video-editing)
   - [Animation](#animation)
   - [3D Creation Software](#3d-creation-software)
-  - [YouTube Channels](#youtube-channels)
   - [Stock Resources](#stock-resources)
     - [Audio](#audio)
     - [Graphics](#graphics)
@@ -18,6 +17,8 @@ List of resources for Instructional Designers
     - [Captions](#captions)
     - [Text-To-Speech](#text-to-speech)
   - [Misc](#misc)
+    - [YouTube Channels](#youtube-channels)
+    - [ID Commmunities]()
     - [Software](#software)
       - [Flash Cards](#flashcards)
     - [Books](#books)
@@ -101,25 +102,6 @@ Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenT
 
 **[`^        Back to Table of Contents        ^`](#)**
 
-## YouTube Channels
-[Pixel and Bracket](https://m.youtube.com/c/Pixelandbracket/videos)- I'm Spencer, a designer and content creator from Indianapolis, Indiana. Pixel & Bracket is my creative outlet to help educate and inspire others.
-
-[TJ Free](https://www.youtube.com/c/TJFREE)- I try to provide accurate information for people looking for free alternatives to proprietary and paid software.
-All of the programs recommend here are free to download and use, and the most are Free Open Source Software (FOSS).
-
-
-[Blender Fundamentals](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)- This tutorial is part of the Blender Fundamentals series (version 2.8), produced by Dillon Gu. Find more free tutorials on: [blender.org](https://blender.org/tutorials)
-
-
-[Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)-Creating tools and tutorials for the 3D Blender world
-
-
-[Chris P.](https://www.youtube.com/c/chrisprenn/videos)- I create tutorials for Blender, the free, open-source (and just freaking awesome) 3D software!
-
-
-
-**[`^        Back to Table of Contents        ^`](#)**
-
 ## Stock Resources
 ### Audio
 [Tune Pocket](https://www.tunepocket.com/)- TunePocket is a royalty free stock music library. Get unlimited download access to thousands of music tracks, loops, and sound effects with an affordable subscription plan. Use our music in personal and commercial videos, films, games, and other projects. New music added daily.
@@ -175,6 +157,33 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 **[`^        Back to Table of Contents        ^`](#)**
 
 ## Misc
+
+### YouTube Channels
+[Pixel and Bracket](https://m.youtube.com/c/Pixelandbracket/videos)- I'm Spencer, a designer and content creator from Indianapolis, Indiana. Pixel & Bracket is my creative outlet to help educate and inspire others.
+
+[TJ Free](https://www.youtube.com/c/TJFREE)- I try to provide accurate information for people looking for free alternatives to proprietary and paid software.
+All of the programs recommend here are free to download and use, and the most are Free Open Source Software (FOSS).
+
+
+[Blender Fundamentals](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)- This tutorial is part of the Blender Fundamentals series (version 2.8), produced by Dillon Gu. Find more free tutorials on: [blender.org](https://blender.org/tutorials)
+
+
+[Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)-Creating tools and tutorials for the 3D Blender world
+
+
+[Chris P.](https://www.youtube.com/c/chrisprenn/videos)- I create tutorials for Blender, the free, open-source (and just freaking awesome) 3D software!
+
+
+### ID Communities
+[Devlin Peck's Community](community.devlinpeck.com)- An asynchronous forum with lots of members and many different channels of discussion. Devlin is well known in the ID community and runs his own bootcamp. This community is also a place for bootcamp members to connect and get feedback on their projects.
+
+[Reddit Instructional Design](https://www.reddit.com/r/instructionaldesign)- An asynchronous Reddit community that has been around since 2012 and has about 20.5K members. They also have a [discord channel](https://discord.gg/xfzh84V).
+
+[Awesome ID](https://discord.gg/aqKadj7KsQ)- This is my own discord community that anyone is welcome to join. It was created to compliment this GitHub project.
+
+
+**[`^        Back to Table of Contents        ^`](#)**
+
 ### Software
 [Storyboarder](https://wonderunit.com/storyboarder/)- Storyboarder makes it easy to visualize a story as fast you can draw stick figures. Quickly draw to test if a story idea works. Create and show animatics to others. Express your story idea without making a movie.
 
