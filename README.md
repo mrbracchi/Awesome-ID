@@ -18,7 +18,7 @@ List of resources for Instructional Designers
     - [Text-To-Speech](#text-to-speech)
   - [Misc](#misc)
     - [YouTube Channels](#youtube-channels)
-    - [ID Commmunities]()
+    - [ID Commmunities](#id-communities)
     - [Software](#software)
       - [Flash Cards](#flashcards)
     - [Books](#books)
