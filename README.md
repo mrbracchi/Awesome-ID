@@ -54,6 +54,11 @@ List of resources for Instructional Designers
 
 [Raw Therapee](https://www.rawtherapee.com)- RawTherapee is a powerful, cross-platform raw photo processing system, released as Free Software (GPLv3). It is designed for developing raw files from a broad range of digital cameras and targeted at users ranging from enthusiast newcomers who wish to broaden their understanding of how digital imaging works to professional photographers.
 
+[Kraken.io](https://kraken.io/web-interface)- Quick image optimization for web tool. Helpful to ensure that your images do not slow down load times in learning object tools such as Articulate Rise and H5P. Supports JPEG, PNG, GIF, Animated GIF and SVG formats.
+
+
+[ImageOptim](https://imageoptim.com/mac)- ImageOptim is excellent for publishing images on the web (easily shrinks images “Saved for Web” in Photoshop). It's useful for making Mac and iPhone/iPad applications smaller (if you configure Xcode to allow better optimization).
+ImageOptim removes EXIF meta­data, such as GPS position and camera's serial number, so that you can publish images without exposing private information (but there's an option to keep the meta­data if you need it). Locally installed so no issues with transferring proprietary images to a web-based tool.
 
 **[`^        Back to Table of Contents        ^`](#)**
 
