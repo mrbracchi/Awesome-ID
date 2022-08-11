@@ -21,6 +21,7 @@ List of resources for Instructional Designers
     - [ID Commmunities](#id-communities)
     - [Software](#software)
       - [Flash Cards](#flashcards)
+    - [Design Utilities](#design-utilities)
     - [Books](#books)
       - [ID/LD and eLearning](#ID/LD-and-eLearning)
       - [Design](#Design)
@@ -132,6 +133,8 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 ### Colors
 [Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23000000%0D%0A%23FFFFFF%0D%0A%23E17A17%0D%0A%237D9845%0D%0A%23614B79%0D%0A%2338939B%0D%0A%23FFDD00%0D%0A%2300718D%0D%0A%23DA291C%0D%0A%23DAAA00%0D%0A%2300843D%0D%0A%23DBE7ED%0D%0A%23F8E7DC%0D%0A%23F8EFCE%0D%0A%23DFEAE3%0D%0A%23626262%0D%0A%23767676%0D%0A%23898989%0D%0A%239D9D9D%0D%0A%23C4C4C4%0D%0A%23D8D8D8%0D%0A%23F1F1F1%0D%0A%23043954%0D%0A%23C56B14%0D%0A%23A95C11%0D%0A%2304ABC2%0D%0A%230492A6%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp)- Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast.
 
+[Who Can Use?](https://whocanuse.com/)- Make sure that your colour choices will perform well for all users. Including those with colour perspection differences, certain visual impairments and also in different lighting conditions.
+
 **[`^        back to topic        ^`](#Accessibiliy)**
 
 ### Captioning and Subtitles
@@ -194,6 +197,11 @@ All of the programs recommend here are free to download and use, and the most ar
 - [H5P](https://h5p.org/flashcards)- Free interactive HTML5 flashcards. This content type allows authors to create a single flash card or a set of flashcards that have both questions and answers. Learners are required to fill in the text field and then check the correctness of their solution. 
 
 - [Quizlet](https://quizlet.com/)- Ability to create and share flashcards. Geared towards a K-12 audience but can be used by anyone for a variety of use cases. 
+
+### Design Utilities
+-[Adobe Color Wheel](https://color.adobe.com/create/color-wheel)- Free web tool for creating color schemes using a colour wheel with built-in color theory. Now includes a contrast checker.
+
+- [Firefox Eyedropper](https://firefox-source-docs.mozilla.org/devtools-user/eyedropper/index.html)- Sample the HEX code for any element you find on the web (in a photo, in a web design, etc.). Select the hamburger menu on the top-right of Firefox. Then select More tools to use the Eyedropper.
 
 
 ### Books
