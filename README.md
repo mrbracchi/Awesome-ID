@@ -180,6 +180,8 @@ All of the programs recommend here are free to download and use, and the most ar
 
 [Asten Regis](https://www.youtube.com/c/AstenRegis/featured)- Helping you tell your story through video. On this channel get the best tips and tools for film making gear and learn through tutorials to create the best videos to tell your story. From video editing to camera, lighting and audio gear. [Great playlist for videos <3 min on Adobe Premier.](https://www.youtube.com/playlist?list=PL2VFy3hNccqVakUPeZs6x_5KInPTmOZRM)
 
+[Javier Mercedes](https://www.youtube.com/c/JavierMercedes/featured)- On this channel you will find video editing tutorials for Adobe Premiere Pro and After Effects, video and audio production tips, and video/audio tech reviews. Check out my website for video editing preset packs and bundles to save you time creating videos! [Leave the razor behind and use insert and overwrite for trim and cut!](https://www.youtube.com/watch?v=ox8bgOPL25U)
+
 
 ### ID Communities
 [Devlin Peck's Community](https://community.devlinpeck.com)- An asynchronous forum with lots of members and many different channels of discussion. Devlin is well known in the ID community and runs his own bootcamp. This community is also a place for bootcamp members to connect and get feedback on their projects.
