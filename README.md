@@ -157,6 +157,8 @@ Filmmaking is our passion. So, we understand what today’s creative filmmakers 
 
 [Transcribe tool in Microsoft Word Online](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)- The transcribe tool in Microsoft Word online allows you to upload an audio of video file and generate a written transcript. This can include multiple labelled speakers and you can choose to include these labels and the timecodes in the text or have the text alone. This is very helpful for transcripts of audio and video for accessibility reasons. Also helpful for transcribing interview recordings for further in-depth text analysis.
 
+[Coqui TTS](https://coqui.ai/)- Coqui ("ko-kee") is dedicated to open speech technology and to serving as the hub where speech researchers, developers, and practitioners congregate. Over the intervening years we built open sourced STT and TTS engines which have been used by hundreds of thousands of people. Also, we kicked off projects open sourcing thousands of hours of speech training data. A vital, knowledgeable, and supportive community joined the cause and accelerated progress exponentially. [GitHub](https://github.com/coqui-ai/TTS)
+
 **[`^        Back to Table of Contents        ^`](#)**
 
 ## Misc
