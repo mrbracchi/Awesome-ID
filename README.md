@@ -176,6 +176,8 @@ All of the programs recommend here are free to download and use, and the most ar
 
 [Chris P.](https://www.youtube.com/c/chrisprenn/videos)- I create tutorials for Blender, the free, open-source (and just freaking awesome) 3D software!
 
+[Asten Regis](https://www.youtube.com/c/AstenRegis/featured)- Helping you tell your story through video. On this channel get the best tips and tools for film making gear and learn through tutorials to create the best videos to tell your story. From video editing to camera, lighting and audio gear. [Great playlist for videos <3 min on Adobe Premier.](https://www.youtube.com/playlist?list=PL2VFy3hNccqVakUPeZs6x_5KInPTmOZRM)
+
 
 ### ID Communities
 [Devlin Peck's Community](https://community.devlinpeck.com)- An asynchronous forum with lots of members and many different channels of discussion. Devlin is well known in the ID community and runs his own bootcamp. This community is also a place for bootcamp members to connect and get feedback on their projects.
