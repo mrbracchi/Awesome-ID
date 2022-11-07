@@ -114,7 +114,11 @@ Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenT
 **[`^        back to topic        ^`](#Stock-Resources)**
 
 ### Graphics
-[Pixabay](https://pixabay.com/)- A free stock photography and royalty-free stock media website. It is used for sharing photos, illustrations, vector graphics, film footage, and music, exclusively under the custom Pixabay license, which generally allows the free use of the material with some restrictions.
+[Noun Project](https://thenounproject.com/)- A site for sourcing modern icon sets and images to explain concepts. Requires a free account to download. Icons can be used for free if attribution watermark is included. For use without limitation a small fee can be paid for each icon design.
+
+[Pixabay](https://pixabay.com/)- A free stock photography and royalty-free stock media website. It is used for sharing photos, illustrations, vector graphics, film footage, and music, exclusively under the custom Pixabay license, which generally allows the free use of the material with some restrictions. 
+
+[Unsplash](https://unsplash.com/)- A free royalty-free photography website. Used by professional and amateur artists to share high-quality photos, textures and 3D rendering. Content available under unspash license which encourages but does not require attribution. 
 
 **[`^        back to topic        ^`](#Stock-Resources)**
 
