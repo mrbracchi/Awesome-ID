@@ -120,6 +120,10 @@ Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenT
 
 [Unsplash](https://unsplash.com/)- A free royalty-free photography website. Used by professional and amateur artists to share high-quality photos, textures and 3D rendering. Content available under unspash license which encourages but does not require attribution. 
 
+[StorySet](https://storyset.com/)- Do you want the illustrations to come to life on your website? You can animate them directly with our online editor! Cool Illustrations to power up your project. Hundreds of illustrated concepts to make your landing page,app, or presentation more attractive.
+
+[Lordicon](https://lordicon.com/icons)- Lordicon is a powerful library of carefully crafted animated icons, ready to use in digital products, presentations, or videos! Animated icons bring static images to life, effectively expressing everything from meaning to function. They delight by doing more with less.
+
 **[`^        back to topic        ^`](#Stock-Resources)**
 
 ### Video
