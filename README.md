@@ -94,6 +94,9 @@ Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenT
 [Vyond](https://www.vyond.com/)- Vyond’s online video animation software allows your business to easily create professional animated videos for all industries in job roles like marketing, sales, training, and eLearning. Vyond is changing the way the world communicates, one video at a time.
 
 
+[PresenterMedia](https://www.presentermedia.com/)- Quickly edit online templates and customizable designs to create amazing creatives that come to life for PowerPoint, Google Slides, Social Media, Teaching, and Marketing Material.
+
+
 **[`^        Back to Table of Contents        ^`](#)**
 
 
